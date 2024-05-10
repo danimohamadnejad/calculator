@@ -1,0 +1,17 @@
+{
+    "name": "dani/calculator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dani\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dani",
+            "email": "dani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
